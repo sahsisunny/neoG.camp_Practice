@@ -13,8 +13,8 @@
 |   9   |                   Recommendation app                   |   ✅   |
 |  10   |                 Cash Register Manager                  |   ✅   |
 |  11   |                Is your Birthday Lucky?                 |   ✅   |
+|  12   |                 do you know triangles?                 |   ✅   |
+|  15   |                    Blogs (optional)                    |   ✅   |
 
-| 12 | do you know triangles? | |
 | 13 | Palindrome Birthday | |
 | 14 | Profit or loss calculator (stocks) | |
-| 15 | Blogs (optional) | |
