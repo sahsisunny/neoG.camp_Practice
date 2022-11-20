@@ -15,6 +15,7 @@
 |  11   |                Is your Birthday Lucky?                 |   ✅   |
 |  12   |                 do you know triangles?                 |   ✅   |
 |  15   |                    Blogs (optional)                    |   ✅   |
+|  13   |                  Palindrome Birthday                   |   ✅   |
 
-| 13 | Palindrome Birthday | |
 | 14 | Profit or loss calculator (stocks) | |
+| 15 | Write 2 blogs in your language | |
