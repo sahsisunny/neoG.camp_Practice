@@ -32,7 +32,38 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+input,
+button {
+  margin: 5px;
+  padding: 5px 15px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  box-shadow: 0 1px 3px black;
+  width: 20%;
+}
+
+button:hover {
+  color: white;
+  background-color: grey;
+}
+
+input {
+  width: 80%;
+  border-radius: 5px;
+  text-align: center;
 }
